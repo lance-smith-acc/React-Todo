@@ -1,0 +1,10 @@
+.item {
+    background-color: green;
+    width:50%;
+    margin: 3px 0;
+}
+
+.item.completed {
+    background-color: palevioletred;
+    text-decoration: line-through;
+}
